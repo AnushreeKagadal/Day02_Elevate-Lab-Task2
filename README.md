@@ -31,7 +31,7 @@ Both approaches were used to create tables, insert data, and perform updates and
 
 - `Day2-HospitalManagement.sql` – Contains all SQL commands used for creating tables and manipulating data.
 - `Day2-Task2_Approach.docx` – Step-by-step explanation of using the GUI and SQL Query Manual Method for this task.
-- 'Hospital_Management.db'- Contains the GUI version,download the raw file to execute.
+- 'hospital_management.db'- Contains the GUI version,download the raw file to execute.
 
 ---
 
