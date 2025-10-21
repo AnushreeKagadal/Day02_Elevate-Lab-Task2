@@ -8,7 +8,7 @@ The task was completed using **two approaches**:
 1. **Manual SQL queries** – Writing SQL commands directly.
     - Wrote SQL commands such as `SELECT`, `INSERT`, `UPDATE`, `DELETE`.  
     - Used conditions like `IS NULL`, and `DEFAULT`.
-2. **GUI method** – Using DB Browser tool of SQL.
+2. **GUI method** – Using DB Browser tool of SQLite Studio.
 
 Both approaches were used to create tables, insert data, and perform updates and deletions.
 
@@ -31,6 +31,7 @@ Both approaches were used to create tables, insert data, and perform updates and
 
 - `Day2-HospitalManagement.sql` – Contains all SQL commands used for creating tables and manipulating data.
 - `Day2-Task2_Approach.docx` – Step-by-step explanation of using the GUI and SQL Query Manual Method for this task.
+- 'Hospital_Management.db'- Contains the GUI version,download the raw file to execute.
 
 ---
 
