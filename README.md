@@ -5,8 +5,10 @@ Task 2 SQL practice: Data operations and handling NULLs – Elevate Lab Internsh
 This project demonstrates the creation and management of a simple database using SQLiteStudio. 
 The task was completed using **two approaches**:
 
-1. **Manual SQL queries** – Writing SQL commands directly.  
-2. **GUI method** – Using MySQL Workbench visual interface.
+1. **Manual SQL queries** – Writing SQL commands directly.
+    - Wrote SQL commands such as `SELECT`, `INSERT`, `UPDATE`, `DELETE`.  
+    - Used conditions like `IS NULL`, and `DEFAULT`.
+2. **GUI method** – Using DB Browser tool of SQL.
 
 Both approaches were used to create tables, insert data, and perform updates and deletions.
 
