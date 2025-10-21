@@ -1,4 +1,4 @@
-<img width="927" height="627" alt="image" src="https://github.com/user-attachments/assets/267af7a6-14e5-40cc-ac19-94f7e2c0efaa" /># Day02_Elevate-Lab-Task2
+Day02_Elevate-Lab-Task2.
 Task 2 SQL practice: Data operations and handling NULLs – Elevate Lab Internship
 
 ## Overview
