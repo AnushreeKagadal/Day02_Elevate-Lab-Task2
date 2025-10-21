@@ -28,7 +28,6 @@ CREATE TABLE appointments (
     FOREIGN KEY (doctor_id) REFERENCES doctors(doctor_id)
 );
 
---Select  * from appointments;
 --Inserting Data into tables
 -- Inserting doctors
 INSERT INTO doctors (name, specialization, phone, experience_years)
@@ -63,9 +62,9 @@ INSERT INTO appointments (patient_id, doctor_id, appointment_date)
 VALUES (3, 3, '2025-10-24');  -- missing diagnosis & prescription so NULL
 
 --Verification
---Select * from patients;
---Select * from doctors;
---Select * from appointments;
+Select * from patients;
+Select * from doctors;
+Select * from appointments;
 
 --Update
 UPDATE patients
@@ -84,7 +83,6 @@ WHERE appointment_id = 3;
 
 DELETE FROM patients
 WHERE name = 'Ashwing Gowda' AND contact IS NULL;
---Verification
--- SELECT * FROM doctors;
-SELECT * FROM patients;
+
+
 
