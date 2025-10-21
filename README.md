@@ -1,8 +1,8 @@
-# Day02_Elevate-Lab-Task2
+<img width="927" height="627" alt="image" src="https://github.com/user-attachments/assets/267af7a6-14e5-40cc-ac19-94f7e2c0efaa" /># Day02_Elevate-Lab-Task2
 Task 2 SQL practice: Data operations and handling NULLs – Elevate Lab Internship
 
 ## Overview
-This project demonstrates the creation and management of a simple database using SQLiteStudio. 
+This project demonstrates the creation and management of a simple Hospital database using SQLiteStudio. 
 The task was completed using **two approaches**:
 
 1. **Manual SQL queries** – Writing SQL commands directly.
@@ -29,8 +29,8 @@ Both approaches were used to create tables, insert data, and perform updates and
 
 ## Files Included
 
-- `sql_queries.sql` – Contains all SQL commands used for creating tables and manipulating data.
-- `GUI_approach.docx` – Step-by-step explanation of using the GUI for this task.
+- `Day2-HospitalManagement.sql` – Contains all SQL commands used for creating tables and manipulating data.
+- `Day2-Task2_Approach.docx` – Step-by-step explanation of using the GUI and SQL Query Manual Method for this task.
 
 ---
 
@@ -49,6 +49,4 @@ Both approaches were used to create tables, insert data, and perform updates and
 - Updating records  
 - Deleting records  
 - Handling Null values and Default values
-
-4. For step-by-step GUI guidance, refer to `GUI_approach.docx`.
 
